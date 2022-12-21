@@ -1,2 +1,2 @@
-# Angular-git
-handson
+# my first Angular-git
+handson practice!!!
